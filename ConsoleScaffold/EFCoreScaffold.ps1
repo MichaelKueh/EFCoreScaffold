@@ -1,0 +1,1 @@
+﻿dotnet ef dbcontext scaffold "Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=EFCoreScaffold" Microsoft.EntityFrameworkCore.SqlServer
